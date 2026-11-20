@@ -1,0 +1,10 @@
+admin
+login
+api
+backup
+config
+.git
+robots.txt
+index.html
+wp-admin
+upload
